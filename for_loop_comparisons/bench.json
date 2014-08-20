@@ -1,0 +1,17 @@
+{
+    "nextTick" : {
+        "real" : "0m0.503s",
+        "user" : "0m0.366s",
+        "sys"  : "0m0.080s"
+    },
+    "timeout" : {
+        "real" : "0m0.772s",
+        "user" : "0m0.693s",
+        "sys"  : "0m0.080s"
+    },
+    "immediate" : {
+        "real" : "0m1.676s",
+        "user" : "0m1.227s",
+        "sys"  : "0m0.469s"
+    }
+}
