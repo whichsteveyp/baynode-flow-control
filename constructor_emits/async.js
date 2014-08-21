@@ -21,8 +21,8 @@ Constructor.prototype.init = function() {
 
   console.log('firing some init events for async');
 
-  this.emit('data', 'hello');
-  this.emit('data', 'world');
+  this.emit('data', 'hello async');
+  this.emit('data', 'world async');
   this.emit('end');
 };
 
